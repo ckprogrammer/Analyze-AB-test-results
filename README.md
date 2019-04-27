@@ -10,5 +10,7 @@ If you want to download my notebook, you can download it from here and run it us
 ### Python
 * pandas
 * numpy
+* matplotlib pyplot
 
 ### Jupyter Notebook
+To observe, clean and assess the data. 
